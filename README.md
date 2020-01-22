@@ -10,5 +10,5 @@ These are a couple of my python scripts.
     * A script that takes user input in the form of a course and the grade obtained. It creates, writes, and saves this in a txt file. It will then read the information and print the average grade for the courses.
     
 3. [Random numbers list](https://github.com/TineshaErskine/python_coding/tree/master/random_numbers_list)
-    * A script that generates 12 random numbers and saves them within a list 
+    * A script that generates 12 random numbers and saves them within a list. It will manipulate the list by slicing and ordering. It then prints information about the numbers and their position in the list.
 
