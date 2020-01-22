@@ -9,8 +9,8 @@ These are a couple of my python scripts.
       
 2. [Grade tracker](https://github.com/TineshaErskine/python_coding/tree/master/grade_tracker)
     * A script that takes user input in the form of a course and the grade obtained. It creates, writes, and saves this in a txt file. It will then read the information and print the average grade for the courses.
-      * [`Take a look at the output`]
+      * [`Take a look at the output`](https://github.com/TineshaErskine/python_coding/blob/master/grade_tracker/grade_tracker.PNG)
       
 3. [Random numbers list](https://github.com/TineshaErskine/python_coding/tree/master/random_numbers_list)
-    * A script that generates 12 random numbers and saves them within a list. It will manipulate the list by slicing and ordering. It then prints information about the numbers and their position in the list.
-      * [`Take a look at the output`]
+    * A script that generates 12 random numbers and saves them within a list. It will sort the list from lowest to highest, print the first eight elements, and then print the last four elements in the sorted. It then prints the fourth element in the sorted list and amount of even and odd numbers.
+      * [`Take a look at the output`](https://github.com/TineshaErskine/python_coding/blob/master/random_numbers_list/random_numbers_list.PNG)
