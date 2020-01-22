@@ -5,7 +5,7 @@ These are a couple of my python scripts.
 ### Table of contents
 1. [Birthday countdown](https://github.com/TineshaErskine/python_coding/tree/master/birthday_countdown) 
     * A script that takes user input in the form of a birthday and tell you if today is your birthday or how many days until your birthday
-      * `[Take a look at the output](https://github.com/TineshaErskine/python_coding/blob/master/birthday_countdown/bday_counter_examples.PNG)`
+      * [`Take a look at the output`](https://github.com/TineshaErskine/python_coding/blob/master/birthday_countdown/bday_counter_examples.PNG)
       
 2. [Grade tracker](https://github.com/TineshaErskine/python_coding/tree/master/grade_tracker)
     * A script that takes user input in the form of a course and the grade obtained. It creates, writes, and saves this in a txt file. It will then read the information and print the average grade for the courses.
